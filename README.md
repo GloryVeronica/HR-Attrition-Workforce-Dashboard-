@@ -1,10 +1,13 @@
 **HR-Attrition-Workforce-Dashboard**
 
+---
+
 TalentView is a Power BI HR analytics project that analyzes workforce headcount, attrition trends, separation reasons, and hiring insights. It uses a structured data model, DAX measures, and interactive dashboards to help HR teams understand employee turnover and workforce composition.
+
+---
 
 **TalentView – HR Attrition & Workforce Analytics Dashboard**
 
----
 
 **Project Overview**
 **TalentView** is a comprehensive **HR analytics dashboard built in Power BI** to analyze workforce size, employee movement, attrition drivers, and hiring performance. The dashboard transforms raw HR data into meaningful insights that help HR teams understand workforce health, identify retention risks, and evaluate recruitment effectiveness.
